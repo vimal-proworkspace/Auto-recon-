@@ -41,11 +41,11 @@ For the HTTP check, I limited it to `localhost` and `127.0.0.1` on purpose. I di
 
 Running the scanner against `scanme.nmap.org` on Kali Linux:
 
-![AutoRecon running in the terminal](https://drive.google.com/uc?id=1I3cGqOTcjBNppt1xat1jB8iRje78wpoG&export=download)
+![AutoRecon running in the terminal](https://github.com/vimal-proworkspace/Auto-recon-/raw/refs/heads/main/images/AutoRecon_running_in_the_terminal)
 
 The report it generated:
 
-![AutoRecon JSON report](https://drive.google.com/uc?id=1Twh9cCP0PmvemKFZAzaoiEiClAXD34T0&export=download)
+![AutoRecon JSON report](https://github.com/vimal-proworkspace/Auto-recon-/raw/refs/heads/main/images/AutoRecon_JSON_report)
 
 It found ports 22 (SSH) and 80 (HTTP) open, which is what I expected for that host.
 
